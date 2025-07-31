@@ -8,9 +8,9 @@ Building Intelligence, Training Myself
 🚀 Aspiring AI Developer & Researcher
 
 🛠️ Current Projects
-   🔢 Python Practice → https://github.com/YourUsername/python-practice
+   🔢 Python Practice → https://github.com/monibaabrar/Python-Practice
    🤖 ML Projects coming soon...
 
 📫 Connect With Me
   LinkedIn: https://linkedin.com/
-  GitHub: https://github.com/MoneebaAbrar
+  GitHub: https://github.com/monibaabrar
